@@ -1,4 +1,4 @@
-# HTML5-CSS
+# HTML5-CSS3
 Aqui contém alguns desafios com conteúdos de HTML e CSS do curso em vídeo.
 Contém também resolução de exercícios e pequenos projetos pessoais. 
 Os exercícios NÃO estão na ordem original passada no repositório do Gustavo Guanabara, classifiquei esses exercícios pela ordem de dificuldade.
